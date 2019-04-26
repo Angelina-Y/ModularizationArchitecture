@@ -329,8 +329,5 @@ MaActionResult result = new MaActionResult.Builder()
     See the License for the specific language governing permissions and
     limitations under the License.
     
-    
-欢迎关注公众号**wutongke**，每天推送移动开发前沿技术文章：
-
-![wutongke](http://upload-images.jianshu.io/upload_images/1407686-8f64e33d76075d40.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+   
 
